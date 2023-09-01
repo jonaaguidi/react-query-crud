@@ -1,8 +1,13 @@
+import ProductForm from "./components/ProductForm"
+import { Products } from "./components/Products"
 import "./index.css"
 
 const App = () => {
   return (
-    <div>Hola Mundo!</div>
+    <>
+      <ProductForm />
+      <Products />
+    </>
   )
 }
 

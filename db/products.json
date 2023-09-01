@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "Burga",
+      "price": "3000",
+      "description": "Cheesee burger",
+      "inStock": true,
+      "id": 4
+    },
+    {
+      "name": "PROYECTOS",
+      "price": "10",
+      "description": "202",
+      "inStock": true,
+      "id": 5
+    }
+  ]
+}
